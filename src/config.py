@@ -1,4 +1,3 @@
-# config.py
 # EfficientNet-B0 Baseline Configuration
 
 # Input image size
